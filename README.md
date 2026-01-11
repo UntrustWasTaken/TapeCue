@@ -1,7 +1,7 @@
 # TapeCue
 A simple application to help arrange audio for cassette dubbing
 
-##Tutorial
+## Tutorial
 Open the folder and run TapeCue.exe.
 The application is split into two lists, one for side A and the other for side B. Drag audio files into either of these areas to begin. Tracks can be arranged by dragging them around. The total duration of that side is displayed above each list. Tracks can be deleted.
 
